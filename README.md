@@ -59,6 +59,11 @@ cd frontend/sre-ui && npm test
 - [frontend](frontend/sre-ui/README.md)
 - [arquetipos](archetypes/README.md)
 
-## Repositorio
+## Equipo
 
-https://github.com/KhanIvall/SRE-ValleDeSol
+Proyecto académico en equipo — Ingeniería en Informática, DuocUC (2026).
+
+- Skarlett Tropan — [@sktropan](https://github.com/sktropan)
+- [@KhanIvall](https://github.com/KhanIvall)
+
+Repositorio original: https://github.com/KhanIvall/SRE-ValleDeSol
